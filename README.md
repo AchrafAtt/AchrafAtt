@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **TypeScript, Tailwind, React Native Expo**
 
- 💬 Ask me about **Python, React, Java, Javascript... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Python, React, Java, SpringBoot, Flutter, Javascript... or anything [here](https://github.com/AchrafAtt/AchrafAtt/issues)**
 
  👻 Cypher fact: **You forget. I always play high stakes**
  
