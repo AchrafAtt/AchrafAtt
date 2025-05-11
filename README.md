@@ -15,6 +15,8 @@
  💬 Ask me about **Python, React, Java, SpringBoot, Flutter, Javascript... or anything [here](https://github.com/AchrafAtt/AchrafAtt/issues)**
 
  👻 Cypher fact: **You forget. I always play high stakes**
+
+ [![wakatime](https://wakatime.com/badge/user/731db919-caa2-4fd9-a319-183847eaea4f.svg)](https://wakatime.com/@731db919-caa2-4fd9-a319-183847eaea4f)
  
  <div align="center"> 
   <a href="mailto:attouki.officiel@gmail.com">
