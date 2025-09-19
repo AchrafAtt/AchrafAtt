@@ -1,8 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=22&pause=1000&color=925BF7&random=false&width=435&lines=Hi+There!+%F0%9F%98%8E+I''m+Achraf+El+Attouaki" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=22&pause=1000&color=925BF7&random=false&width=435&lines=Hi+There!+%F0%9F%98%8E+I'm+Achraf+El+Attouaki" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">A passionate software developer from Morocco 🇲🇦  </h3>
+<h3 align="center">Full-Stack Software Engineer | ☁️ Cloud & DevOps Enthusiast | 🤖 AI Automation Explorer</h3>
+<p align="center">Passionate about building scalable applications, automating workflows with n8n, and exploring agentic AI (AutoGen, A2Agent, AI-driven automation) to push the limits of intelligent systems.</p>
 
 <br/>
 
@@ -10,9 +11,9 @@
  
  🔭 I’m currently working on **Plan-prdo, HR-Solution-Frontend, and FactoryPlanner**
  
- 🌱 I’m currently learning **TypeScript, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **AI Automation (A2Agent, Agentic AI)**
 
- 💬 Ask me about **Python, React, Java, SpringBoot, Flutter, Javascript... or anything [here](https://github.com/AchrafAtt/AchrafAtt/issues)**
+ 💬 Ask me about **AWS, Azure, Cloud, DevOps, Python, React, Java, Spring Boot, Flutter, JavaScript, PHP, Laravel… or anything [here](https://github.com/AchrafAtt/AchrafAtt/issues)**
 
  👻 Cypher fact: **You forget. I always play high stakes**
 
@@ -35,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git," />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,cpp,java,nextjs,mysql,wordpress,prisma,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,cpp,java,nextjs,mysql,wordpress,prisma,dotnet,php,laravel,aws,azure" /><br>
   <img src="https://skillicons.dev/icons?i=ps,ai,xd" />
 </div>
 <hr/>
@@ -49,5 +50,5 @@
 </div>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I''m+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
